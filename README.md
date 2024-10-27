@@ -6,8 +6,6 @@ I am an MCT (Microsoft Certified Trainer) and a Technical Blogger & Speaker Focu
 
 ![](Images/AI.png)
 
-# Seena Khan Blogs
-
 ## Skills
 - **Languages**: C#, JavaScript, HTML, T-SQL, CSS3, TypeScript, Pfx
 - **Frameworks**: .Net, ASP.Net, Entity Framework, .Net Framework Core
@@ -16,9 +14,9 @@ I am an MCT (Microsoft Certified Trainer) and a Technical Blogger & Speaker Focu
 
 If you find my blogs helpful, please consider giving it a star! :star: It motivates me a lot and helps others find my blogs.
 
-## Table Of Content
+# Seena Khan Blogs
 
-- **Connect me on [Blog](https://dev.to/seenakhan)**
+- **Following are the list of blogs [Blog](https://dev.to/seenakhan)**
     - [Deploy AI medical copilot by using Microsoft healthcare agent service and use it in Powerapps](https://dev.to/seenakhan/deploy-ai-medical-copilot-and-access-it-to-powerapps-50mk)
     - [Use Client API Object model in Power Apps](https://dev.to/seenakhan/use-client-api-object-model-in-power-apps-2odh)
     - [Steps to generate Azure DevOps work items with Power Automate](https://dev.to/seenakhan/steps-to-generate-azure-devops-work-items-with-power-automate-34af)
@@ -28,4 +26,4 @@ If you find my blogs helpful, please consider giving it a star! :star: It motiva
     - [Create a Power app for Leave request by using Canvas app and interactive adaptive card](https://dev.to/seenakhan/create-a-power-app-for-leave-request-by-using-canvas-app-and-interactive-adaptive-card-3ik5)
     - [AI builder in Power Automate](https://dev.to/seenakhan/ai-builder-in-power-automate-5f13)
     - [Adaptive Cards with Power Automate](https://dev.to/seenakhan/adaptive-cards-with-power-automate-5bcm)
-- 
+  
