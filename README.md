@@ -1,16 +1,37 @@
 Hello Everyone, My name is **Seena Khan** 👋
 
-![](Images/Seena13.jpg)
+![](/Seena13.jpg)
 
-I am an MCT (Microsoft Certified Trainer) and a Technical Blogger & Speaker Focused on Business Application, Azure Architecture and Azure AI.
+I am an MCT (Microsoft Certified Trainer) and a Technical Blogger & Speaker Focused on Business Application, Azure Architecture and Azure AI with over a decade of experience in the tech industry.
+
+**Connect me on [Blog](https://dev.to/seenakhan)**
+
+---
+
+<h3 quote align='center'>Passion is energy. Feel the power that comes from focusing on what excites you.
+– Oprah Winfrey</h3 quote>
+
+---
+
+## 🌐 Socials:
+
+<p align="center">
+  <a href="https://github.com/seenakhan">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/seena-khan-ab1b29123/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://dev.to/seenakhan">
+  <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=Dev.to&logoColor=#d16c06" alt="Dev.to"></a>
+  </p>
+  
+  
+## 💻 Tech Stack:
 
 ## Skills
 - **Languages**: C#, JavaScript, HTML, T-SQL, CSS3, TypeScript, Pfx
 - **Frameworks**: .Net, ASP.Net, Entity Framework, .Net Framework Core
 - **Tools**: Git, SSMS, VS Code, Microsoft SQL Server, Visual Studio
 - **Platforms**: Microsoft Power Platform, Microsoft Copilot Studio, Microsoft Azure 
-
-If you find my blogs helpful, please consider giving it a star! :star: It motivates me a lot and helps others find my blogs.
 
 # Seena Khan Blogs
 
@@ -27,3 +48,8 @@ If you find my blogs helpful, please consider giving it a star! :star: It motiva
     - [AI builder in Power Automate](https://dev.to/seenakhan/ai-builder-in-power-automate-5f13)
     - [Adaptive Cards with Power Automate](https://dev.to/seenakhan/adaptive-cards-with-power-automate-5bcm)
   
+If you find my blogs helpful, please consider giving it a star! :star: It motivates me a lot and helps others find my blogs.
+
+
+
+
