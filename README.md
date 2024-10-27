@@ -6,27 +6,22 @@ I am an MCT (Microsoft Certified Trainer) and a Technical Blogger & Speaker Focu
 **Connect me on [Blog](https://dev.to/seenakhan)**
 
 <a href="https://dev.to/dashboard">
-    <img src="https://aimeos.org/fileadmin/template/icons/logo.png" alt="Aimeos logo" title="Aimeos" align="right" height="60" />
+    ![](Images/Seena13.jpg)
 </a>
 
 # Seena Khan Blogs
 
-[![Total Downloads](https://poser.pugx.org/aimeos/aimeos-typo3/d/total.svg)](https://packagist.org/packages/aimeos/aimeos-typo3)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/aimeos/aimeos-typo3/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/aimeos/aimeos-typo3/?branch=master)
-[![License](https://poser.pugx.org/aimeos/aimeos-typo3/license.svg)](https://packagist.org/packages/aimeos/aimeos-typo3)
+## Skills
+- **Languages**: C#, JavaScript, HTML, T-SQL, CSS3, TypeScript, Pfx
+- **Frameworks**: .Net, ASP.Net, Entity Framework, .Net Framework Core
+- **Tools**: Git, SSMS, VS Code, Microsoft SQL Server, Visual Studio
+- **Platforms**: Microsoft Power Platform, Microsoft Azure, 
 
-:star: Star us on GitHub — it motivates us a lot!
-
-[Aimeos](https://aimeos.org/TYPO3) is THE professional, full-featured and
-high performance e-commerce extension for TYPO3!  You can install it in your
-existing TYPO3 web site within 5 minutes and can adapt, extend, overwrite
-and customize anything to your needs.
-
-![aimeos-frontend](https://user-images.githubusercontent.com/8647429/212348410-55cbaa00-722a-4a30-8b57-da9e173e0675.jpg)
+If you find my blogs helpful, please consider giving it a star! :star: It motivates me a lot and helps others find my blogs.
 
 ## Table Of Content
 
-- [Installation](#installation)
+- [IBlogs List](#installation)
     - [Composer](#composer)
     - [DDev or Colima](#ddev)
     - [TER](#ter-extension)
