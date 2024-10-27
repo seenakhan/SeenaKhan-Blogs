@@ -4,8 +4,6 @@ Hello Everyone, My name is **Seena Khan** 👋
 
 I am an MCT (Microsoft Certified Trainer) and a Technical Blogger & Speaker Focused on Business Application, Azure Architecture and Azure AI.
 
-![](Images/AI.png)
-
 ## Skills
 - **Languages**: C#, JavaScript, HTML, T-SQL, CSS3, TypeScript, Pfx
 - **Frameworks**: .Net, ASP.Net, Entity Framework, .Net Framework Core
@@ -15,6 +13,8 @@ I am an MCT (Microsoft Certified Trainer) and a Technical Blogger & Speaker Focu
 If you find my blogs helpful, please consider giving it a star! :star: It motivates me a lot and helps others find my blogs.
 
 # Seena Khan Blogs
+
+![](Images/AI.png)
 
 - **Following are the list of blogs [Blog](https://dev.to/seenakhan)**
     - [Deploy AI medical copilot by using Microsoft healthcare agent service and use it in Powerapps](https://dev.to/seenakhan/deploy-ai-medical-copilot-and-access-it-to-powerapps-50mk)
