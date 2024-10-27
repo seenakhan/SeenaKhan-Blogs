@@ -4,9 +4,7 @@ Hello Everyone, My name is **Seena Khan** 👋
 
 I am an MCT (Microsoft Certified Trainer) and a Technical Blogger & Speaker Focused on Business Application, Azure Architecture and Azure AI.
 
-<a href="https://dev.to/dashboard">
-    ![](Images/Seena13.jpg)
-</a>
+![](Images/AI.png)
 
 # Seena Khan Blogs
 
